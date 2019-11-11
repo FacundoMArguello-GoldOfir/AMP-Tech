@@ -1,1 +1,1 @@
-Codigo de los episodios de AMP Tech en YouTube
+Codigo de redes neuronales, python, numpy, sciklearn, matplotlib, etc.
